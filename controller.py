@@ -1,6 +1,6 @@
 import gui,stopwatch
 import RPi.GPIO as GPIO
-def fehler (channel):
+def fehler ():
 	fehlerzahl = fehlerzahl + 1
 def newGame():
 	gui.startGameScreen()
