@@ -1,8 +1,9 @@
 import time
 class Stopwatch (object):
+	def __init__:
+		self.fehlerzahl = 0
 	def start (self):
 		self.beginningTime = time.time()
-		self.fehlerzahl = 1
 	def stop (self):
 		self.endTime = time.time()
 		self.time = self.endTime - self.beginningTime
