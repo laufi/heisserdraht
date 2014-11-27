@@ -1,12 +1,12 @@
 import time
 class Stopwatch (object):
 	def start (self):
-		self.beginningTime = time.time()
 		self.fehleranzahl = 0
+		self.beginningTime = time.time()
 	def stop (self):
 		self.endTime = time.time()
 		self.time = self.endTime - self.beginningTime
-	def fehler(self):
 		self.fehleranzahl = self.fehleranzahl + 1;
-	def getTime (self):
+	def fehler(self):
 		return(self.time + self.fehleranzahl * 2)
+	def getTime (self):
