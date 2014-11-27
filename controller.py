@@ -12,7 +12,7 @@ class Controller (object):
 		self.gui.startGameScreen()
 		uhr = stopwatch.Stopwatch()
 		fehlerzahl = 0
-		GPIO.add_event_detect(self.inputpin, GPIO.FALLING, callback = fehlerzahl++, bouncetime = 200)
+		GPIO.add_event_detect(self.inputpin, GPIO.FALLING, callback = fehlerzahl = fehlerzahl + 1, bouncetime = 200)
 		sleep (8)
 		zeit = uhr.getTime() + fehlerzahl * 2
 		print(zeit)
