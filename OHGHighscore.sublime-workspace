@@ -1,0 +1,721 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"C",
+				"controller"
+			],
+			[
+				"we",
+				"welcomeScreen"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"dig",
+				"digitalRead	Arduino digitalRead"
+			],
+			[
+				"digita",
+				"digitalWrite	Arduino digitalWrite"
+			],
+			[
+				"readF",
+				"fs.readFileSync(path, encoding);"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"output",
+				"output"
+			],
+			[
+				"ouput",
+				"outputselector"
+			],
+			[
+				"m",
+				"motion"
+			],
+			[
+				"ass",
+				"assertEquals"
+			],
+			[
+				"get",
+				"getSensorsCount"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"boot",
+				"bootstrap-lightbox"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"em",
+				"em	Tag"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"vide",
+				"videowatchdog"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border-boot",
+				"border-bottom-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/laurenz/mysite/jonasp/get/index.php",
+			"settings":
+			{
+				"buffer_size": 1393,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 306.0,
+		"selected_items":
+		[
+			[
+				"snipp",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"node",
+				"Nodejs::User File Settings"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"amend",
+				"Git: Amend Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"mit",
+				"Licence Snippet: MIT"
+			],
+			[
+				"bsd",
+				"Licence Snippet: BSD (3 clause)"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"cus",
+				"Git: Custom Command"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"branch",
+				"Git: New Branch"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"git del",
+				"Git: Delete Branch"
+			],
+			[
+				"chan",
+				"Git: Change Branch"
+			],
+			[
+				"git bran",
+				"Git: Delete Branch"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Quick Commit"
+			],
+			[
+				"amen",
+				"Git: Amend Commit"
+			],
+			[
+				"git cha",
+				"Git: Change Branch"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"uns",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"hunk",
+				"Git: Add Selected Hunk"
+			],
+			[
+				"dele",
+				"Git: Delete Branch"
+			],
+			[
+				"branc",
+				"Git: New Branch"
+			],
+			[
+				"chang",
+				"Git: Change Branch"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"cha",
+				"Git: Change Branch"
+			],
+			[
+				"cust",
+				"Git: Custom Command"
+			],
+			[
+				"bran",
+				"Git: New Branch"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"ne",
+				"Git: New Branch"
+			],
+			[
+				"git branch",
+				"Git: Change Branch"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"ad",
+				"Git: Add Selected Hunk"
+			],
+			[
+				"hun",
+				"Git: Add Selected Hunk"
+			],
+			[
+				"add s",
+				"Git: Add Selected Hunk"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"log",
+				"Git: Log All"
+			],
+			[
+				"quic",
+				"Git: Quick Commit"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git chang",
+				"Git: Change Branch"
+			],
+			[
+				"br",
+				"Git: Change Branch"
+			],
+			[
+				"git in",
+				"Git: Init"
+			],
+			[
+				"git ",
+				"Git: Init"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"file",
+				"FileDiffs: Menu"
+			],
+			[
+				"file di",
+				"FileDiffs: Menu"
+			],
+			[
+				"bra",
+				"Git: Change Branch"
+			],
+			[
+				"unst",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"unsta",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"reset",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git res",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/laurenz/Desktop/OHGHighscore"
+	],
+	"file_history":
+	[
+		"/home/laurenz/Desktop/OHGHighscore/stopwatch.py",
+		"/home/laurenz/Desktop/OHGHighscore/controller.py",
+		"/home/laurenz/Desktop/OHGHighscore/testcases.py",
+		"/home/laurenz/Desktop/OHGHighscore/gui.py",
+		"/home/laurenz/Desktop/OHGHighscore/OHGHighscore.sublime-project",
+		"/home/laurenz/Desktop/OHGHighscore/spiel.py",
+		"/home/laurenz/Desktop/OHGHighscore/class Spiel (object):",
+		"/home/laurenz/mysite/jonas/02_echo.php",
+		"/home/laurenz/mysite/jonas/02_date.php",
+		"/home/laurenz/mysite/jonas/03_variablen.php",
+		"/home/laurenz/mysite/jonas/03_if.php",
+		"/home/laurenz/mysite/jonas/03_schleifen.php",
+		"/home/laurenz/mysite/jonas/02_arrays.php",
+		"/home/laurenz/mysite/jonas/eingabe.php",
+		"/home/laurenz/mysite/jonas/ausgabe.php",
+		"/home/laurenz/Desktop/Textpattern/Dockerfile",
+		"/home/laurenz/mysite/03_variablen.php",
+		"/home/laurenz/Documents/node/helloworld.js",
+		"/home/laurenz/Documents/node/arguments.js",
+		"/media/laurenz/2F07-19F0/pa_gapps.log",
+		"/home/laurenz/mysite/2_1.php",
+		"/home/laurenz/mysite/3_1.php",
+		"/home/laurenz/arduino_ide/libraries/Firmata/examples/StandardFirmata/StandardFirmata.ino",
+		"/home/laurenz/sketchbook/libraries/readme.txt",
+		"/home/laurenz/Arduino/test/pitches.h",
+		"/home/laurenz/Arduino/test/test.ino",
+		"/home/laurenz/Desktop/Politikprojekt/src/symmetrische_verschluessellung.svg",
+		"/home/laurenz/Documents/schulprojekt/index.html",
+		"/home/laurenz/Desktop/Apache/Dockerfile",
+		"/home/laurenz/Desktop/google takeout/Takeout/Hangouts/Hangouts.json",
+		"/home/laurenz/Desktop/Dockerfile",
+		"/home/laurenz/Desktop/apache.docker",
+		"/home/laurenz/Documents/haorganizerback/helloworld.js",
+		"/home/laurenz/Documents/haorganizerback/babysteps.js",
+		"/home/laurenz/Documents/haorganizerback/lorem.txt",
+		"/home/laurenz/Documents/haorganizerback/firstio.js",
+		"/home/laurenz/.config/sublime-text-3/Packages/User/Nodejs.sublime-settings",
+		"/home/laurenz/.config/sublime-text-3/Packages/Nodejs/Nodejs.sublime-settings",
+		"/home/laurenz/public_html/vokabeltest/src/content/phpmysql.html",
+		"/home/laurenz/public_html/vokabeltest/index.html",
+		"/home/laurenz/public_html/vokabeltest/src/styles/styles.css",
+		"/home/laurenz/public_html/vokabeltest/src/js/basics.js",
+		"/home/laurenz/public_html/vokabeltest/src/content/englischvokabeln.html",
+		"/home/laurenz/public_html/projekt9/index.php",
+		"/home/laurenz/Downloads/pylot_1.26/out/results_2014.10.26_20.46.02/agent_123_errors.log",
+		"/home/laurenz/public_html/vokabeltest/src/styles/style.css",
+		"/home/laurenz/public_html/vokabeltest/src/styles/html {",
+		"/home/laurenz/Documents/Backup.sh",
+		"/etc/udev/rules.d/91-usb-backup.rules",
+		"/home/laurenz/public_html/gitignorecombinator/gitignore/README.md",
+		"/home/laurenz/public_html/gitignorecombinator/gitignore/CodeIgniter.gitignore",
+		"/home/laurenz/Documents/Sublime/jsongitignore.sublime-snippet",
+		"/home/laurenz/public_html/gitignorecombinator/index.html",
+		"/home/laurenz/Desktop/Projekte/gitignorecombinator.sublime-project",
+		"/home/laurenz/gitignore/combinator/main.py",
+		"/home/laurenz/Motion/pom.xml",
+		"/home/laurenz/Motion/src/main/java/io/github/laufi/motion/App.java",
+		"/home/laurenz/Motion/src/test/java/io/github/laufi/motion/AppTest.java",
+		"/home/laurenz/Motion/.gitignore",
+		"/home/laurenz/Motion/README.md",
+		"/home/laurenz/Motion/travis.yml",
+		"/home/laurenz/gitignore/ChefCookbook.gitignore",
+		"/home/laurenz/gitignore/JavaWithMaven.gitignore",
+		"/home/laurenz/Motion/LICENSE",
+		"/home/laurenz/gitignore/Java.gitignore",
+		"/home/laurenz/gitignore/Maven.gitignore",
+		"/home/laurenz/public_html/juliab/src/styles.css",
+		"/home/laurenz/public_html/juliab/vita.html",
+		"/home/laurenz/public_html/juliab/kontakt.html",
+		"/home/laurenz/public_html/juliab/index.html",
+		"/home/laurenz/public_html/juliab/Lizenzen.md",
+		"/home/laurenz/public_html/politikwettbewerb/impressum.html",
+		"/home/laurenz/public_html/politikwettbewerb/src/css/styles.css",
+		"/home/laurenz/public_html/politikwettbewerb/umfrage.html",
+		"/home/laurenz/Desktop/test/test.txt",
+		"/home/laurenz/public_html/politikwettbewerb/index.html",
+		"/home/laurenz/public_html/politikwettbewerb/src/css/cover.css",
+		"/home/laurenz/public_html/politikwettbewerb/indexlegacy.html",
+		"/home/laurenz/Documents/politikwettbewerb/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">",
+			"haorganizer",
+			"Haorganizer",
+			"haorganizer",
+			"haorganit",
+			"{{",
+			"=\"{{\">",
+			"container",
+			"td",
+			"Verhandlungstransparenz",
+			">\n",
+			"	<",
+			"<!-- Custom JS -->\n	<script type=\"text/javascript\">\n		function videowatchdog(){\n			$(\"#jumptovideo\").click(function() {\n				$(\"#teaser\").slideUp( \"slow\", function(){\n					$(\"#video\").slideDown( \"slow\", function(){\n					});\n				});\n			});\n		}\n		$(document).ready(function() {\n			videowatchdog();\n		});\n	</script>",
+			"<a href=\"impressum.html\">Impressum</a>",
+			"container",
+			"0",
+			"<span class=\"badge\">0</span>",
+			"slidet",
+			"-->\n",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/laurenz/mysite/jonasp/get/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1393,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								575,
+								575
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 10.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.StandardFirmata":
+	{
+		"height": 148.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 46.0
+	},
+	"output.rg":
+	{
+		"height": 148.0
+	},
+	"output.stino_log":
+	{
+		"height": 148.0
+	},
+	"output.test":
+	{
+		"height": 148.0
+	},
+	"project": "OHGHighscore.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"testcases.py"
+			],
+			[
+				"hamanage",
+				"~/Documents/hamanager/admindash.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 149.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
