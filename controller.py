@@ -5,7 +5,7 @@ class Controller (object):
 	def __init__ (self):
 		self.home()
 		GPIO.setmode(GPIO.BCM)
-		GPIO.setup(inputpin, GPIO.in)
+		GPIO.setup(inputpin, GPIO.IN)
 	def home (self):
 		self.gui = gui.Gui()
 	def newGame(self):
