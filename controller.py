@@ -8,10 +8,12 @@ class Controller (object):
 		GPIO.setup(self.inputpin, GPIO.IN)
 	def home (self):
 		self.gui = gui.Gui()
+	def fehler (self, channel):
+		self.uhr.fehler()
 	def newGame(self):
 		self.gui.startGameScreen()
-		uhr = stopwatch.Stopwatch()
-		GPIO.add_event_detect(self.inputpin, GPIO.FALLING, callback = uhr.fehler(), bouncetime = 200)
+		self.uhr = stopwatch.Stopwatch()
+		GPIO.add_event_detect(self.inputpin, GPIO.FALLING, callback = self.fehler(), bouncetime = 200)
 		sleep (8)
-		zeit = uhr.getTime()
+		zeit = self.uhr.getTime()
 		print(zeit)
