@@ -1,8 +1,8 @@
 import gui,stopwatch
 import RPi.GPIO as GPIO
 class Controller (object):
-	inputpin = 25;
 	def __init__ (self):
+		inputpin = 25;
 		self.home()
 		GPIO.setmode(GPIO.BCM)
 		GPIO.setup(inputpin, GPIO.IN)
