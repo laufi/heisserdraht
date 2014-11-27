@@ -9,4 +9,4 @@ class Stopwatch (object):
 	def fehler(self):
 		self.fehlerzahl = self.fehlerzahl + 1;
 	def getTime (self):
-		return(self.time + self.fehleranzahl * 2)
+		return(self.time + self.fehlerzahl * 2)
