@@ -1,10 +1,5 @@
 import gui,stopwatch
 import RPi.GPIO as GPIO
-inputpin = 25;
-home()
-GPIO.setmode(GPIO.BCM)
-GPIO.setup(inputpin, GPIO.IN)
-newGame()
 def home ():
 	gui = gui.Gui()
 def fehler (channel):
@@ -17,3 +12,8 @@ def newGame():
 	sleep (8)
 	zeit = uhr.getTime() + fehlerzahl * 2
 	print(zeit)
+inputpin = 25;
+home()
+GPIO.setmode(GPIO.BCM)
+GPIO.setup(inputpin, GPIO.IN)
+newGame()
