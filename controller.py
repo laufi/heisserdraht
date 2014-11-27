@@ -5,11 +5,11 @@ def fehler ():
 def newGame():
 	gui.startGameScreen()
 	uhr = stopwatch.Stopwatch()
-	fehlerzahl = 0
 	GPIO.add_event_detect(inputpin, GPIO.FALLING, callback = fehler(), bouncetime = 200)
 	sleep (8)
 	zeit = uhr.getTime() + fehlerzahl * 2
 	print(zeit)
+fehlerzahl = 0
 inputpin = 25;
 gui = gui.Gui()
 GPIO.setmode(GPIO.BCM)
